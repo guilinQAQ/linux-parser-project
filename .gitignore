@@ -1,0 +1,8 @@
+# 排除 tmpfile
+tmpfile
+# 排除编译产物
+*.o
+parser_app
+libparser.a
+libparser.so
+core
